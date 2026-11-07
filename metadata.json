@@ -1,0 +1,7 @@
+{
+  "name": "NADA — Luxury Fashion & Outerwear",
+  "description": "Minimalist monochrome luxury clothing brand specializing in Winter Jackets and Lingerie for Men and Women, inspired by Zara's editorial aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
